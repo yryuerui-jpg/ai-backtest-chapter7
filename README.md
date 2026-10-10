@@ -7,7 +7,7 @@
 
 ## 下载后从这里开始
 
-1. **[下载完整读者练习包](chapter8-reader-20261009.zip?raw=true)**，然后完整解压。
+1. **[下载完整读者练习包](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/chapter8-reader-20261009.zip)**，然后完整解压。
 2. 先阅读包内的“开始使用.txt”和“操作指南.pdf”。
 3. 将“练习材料”文件夹提供给所用AI工具，确认工具能读到规则与参数；从书中第一节及提示词8-1开始，按章节操作。
 
@@ -20,8 +20,8 @@
 | [开始使用](开始使用.txt) | 第一次练习的步骤与文件用途 |
 | [操作指南](操作指南.pdf) | 按章节选材料、环境准备、运行命令及核验方法 |
 | [12条提示词](提示词.txt) | 与正文编号对应的可复制教学模板 |
-| [配套分析表](配套分析表.xlsx?raw=true) | 下载后查看交易、权益、情景比较与脱敏案例 |
-| [练习材料](chapter8-reader-20261009.zip?raw=true) | 下载并解压后查看固定规则、运行程序、参考结果和必要摘录 |
+| [配套分析表](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/配套分析表.xlsx) | 下载后查看交易、权益、情景比较与脱敏案例 |
+| [练习材料](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/chapter8-reader-20261009.zip) | 下载并解压后查看固定规则、运行程序、参考结果和必要摘录 |
 
 ## 两种使用方式
 
