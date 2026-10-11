@@ -1,15 +1,15 @@
-# 第7章读者练习包
+# 第8章读者练习包
 
 **AI辅助回测分析：验证策略与理解收益**  
-作者：岳瑞 ｜ 配套资料版本：2026年10月9日；章号修订：2026年10月10日
+作者：岳瑞 ｜ 配套资料版本：2026年10月9日
 
-本资料库提供第七章的配套练习材料。读者可使用具备文件读取与程序执行能力的AI工具，跟随书籍完成规则核对、回测运行、交易检查、收益风险分析及成本敏感性分析。笔者在本章实践中使用Codex；读者也可根据需要使用其他AI工具。
+本资料库提供第八章的配套练习材料。读者可使用具备文件读取与程序执行能力的AI工具，跟随书籍完成规则核对、回测运行、交易检查、收益风险分析及成本敏感性分析。笔者在本章实践中使用Codex；读者也可根据需要使用其他AI工具。
 
 ## 下载后从这里开始
 
-1. **[下载完整读者练习包](https://github.com/yryuerui-jpg/ai-backtest-chapter7/raw/refs/heads/main/chapter7-reader-20261010.zip)**，然后完整解压。
+1. **[下载完整读者练习包](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/chapter8-reader-20261009.zip)**，然后完整解压。
 2. 先阅读包内的“开始使用.txt”和“操作指南.pdf”。
-3. 将“练习材料”文件夹提供给所用AI工具，确认工具能读到规则与参数；从书中第一节及提示词7-1开始，按章节操作。
+3. 将“练习材料”文件夹提供给所用AI工具，确认工具能读到规则与参数；从书中第一节及提示词8-1开始，按章节操作。
 
 请保持目录关系，不要只取出单个脚本运行。下载内容为完整练习包，不含全章正文；请配合书籍阅读。
 
@@ -20,8 +20,8 @@
 | [开始使用](开始使用.txt) | 第一次练习的步骤与文件用途 |
 | [操作指南](操作指南.pdf) | 按章节选材料、环境准备、运行命令及核验方法 |
 | [12条提示词](提示词.txt) | 与正文编号对应的可复制教学模板 |
-| [配套分析表](https://github.com/yryuerui-jpg/ai-backtest-chapter7/raw/refs/heads/main/配套分析表.xlsx) | 下载后查看交易、权益、情景比较与脱敏案例 |
-| [练习材料](https://github.com/yryuerui-jpg/ai-backtest-chapter7/raw/refs/heads/main/chapter7-reader-20261010.zip) | 下载并解压后查看固定规则、运行程序、参考结果和必要摘录 |
+| [配套分析表](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/配套分析表.xlsx) | 下载后查看交易、权益、情景比较与脱敏案例 |
+| [练习材料](https://github.com/yryuerui-jpg/ai-backtest-chapter8/raw/refs/heads/main/chapter8-reader-20261009.zip) | 下载并解压后查看固定规则、运行程序、参考结果和必要摘录 |
 
 ## 两种使用方式
 
@@ -44,13 +44,13 @@
 本次提供的ZIP含35个文件，校验值如下：
 
 ```text
-SHA-256  3435dbdd06efc709558a5ff64cb558291eeb34b662e9b81d5818a40ae5c4424c
+SHA-256  703a70e5a3efadc5d90aaeca4fe67192e5784c8e4c9c60654ab3d92f498929c0
 ```
 
 ## 扫码访问
 
 下方二维码指向本资料库首页，可用于本章配套资料说明。
 
-![第7章读者入口二维码](第7章读者入口二维码.png)
+![第8章读者入口二维码](第8章读者入口二维码.png)
 
-[下载二维码SVG矢量文件](第7章读者入口二维码.svg)
+[下载二维码SVG矢量文件](第8章读者入口二维码.svg)
